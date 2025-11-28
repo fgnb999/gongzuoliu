@@ -1,4 +1,4 @@
-name: Bytenut Auto Renew
+name: Bytenutau
 
 on:
   # 定时触发 - 每4小时运行一次

@@ -1,4 +1,4 @@
-name: WaveHost.eu Auto Renew
+name: WaveHost.eu
 
 on:
   # 定时运行：每4小时执行一次

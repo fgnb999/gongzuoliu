@@ -20,7 +20,7 @@ jobs:
     - name: Checkout private repository
       uses: actions/checkout@v4
       with:
-        repository: kamanmuez/WaveHost.eu-Auto-Renew  # 格式: username/repo-name
+        repository: fgnb999/game.wavehost.eu-zidongxuqi  # 格式: username/repo-name
         token: ${{ secrets.PRIVATE_REPO_TOKEN }}
         path: scripts
       

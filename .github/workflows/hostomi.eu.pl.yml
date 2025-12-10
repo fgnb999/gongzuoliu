@@ -1,5 +1,4 @@
-name: Hostomi-PL Auto Renew
-
+name: Hostomi-PL
 on:
   schedule:
     # 每4小时运行一次

@@ -1,4 +1,4 @@
-name: Hostomi-PL Auto Renew
+name: Hostomi-NL
 
 on:
   schedule:
